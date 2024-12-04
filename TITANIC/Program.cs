@@ -4,7 +4,7 @@ internal class Program
 {
     static void Main(string[] args)
     {
-        const string FILENAME = "BARCOS2.txt";
+        const string FILENAME = "BARCOS1.txt";
         StreamReader sRVaixells = new StreamReader(FILENAME);
         string nomVaixells = "";
         string linia;
